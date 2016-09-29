@@ -1,1 +1,1 @@
-# Galaxians_clone_in_C-
+# Galaxians clone in C++ and OpenGL
